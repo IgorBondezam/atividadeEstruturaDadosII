@@ -1,0 +1,6 @@
+computador
+memoria
+placa
+video
+fone
+controlexbox
